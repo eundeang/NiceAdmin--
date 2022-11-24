@@ -1,0 +1,15 @@
+@media all and (max-width:1024px)
+{
+    .container_header
+    {
+        width:440px;
+    }
+    .navbar-brand
+    {
+        padding:14px 20px;
+    }
+    .navbar-toggle
+    {
+        margin-right: 125px;
+    }
+}
